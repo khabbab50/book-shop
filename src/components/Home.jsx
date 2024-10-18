@@ -2,7 +2,7 @@ import Header from "./header/Header";
 
 const Home = () => {
   return (
-    <div>
+    <div className="font-sans">
       <Header />
     </div>
   );
